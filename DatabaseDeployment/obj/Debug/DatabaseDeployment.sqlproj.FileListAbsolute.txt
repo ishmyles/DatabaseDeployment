@@ -1,0 +1,10 @@
+C:\Users\ishmyles\Desktop\DatabaseDeployment\DatabaseDeployment\bin\Debug\DatabaseDeployment.dacpac
+C:\Users\ishmyles\Desktop\DatabaseDeployment\DatabaseDeployment\bin\Debug\DatabaseDeployment.dll
+C:\Users\ishmyles\Desktop\DatabaseDeployment\DatabaseDeployment\bin\Debug\DatabaseDeployment.pdb
+C:\Users\ishmyles\Desktop\DatabaseDeployment\DatabaseDeployment\obj\Debug\DatabaseDeployment.sqlprojResolveAssemblyReference.cache
+C:\Users\ishmyles\Desktop\DatabaseDeployment\DatabaseDeployment\obj\Debug\DatabaseDeployment.dll
+C:\Users\ishmyles\Desktop\DatabaseDeployment\DatabaseDeployment\obj\Debug\DatabaseDeployment.pdb
+C:\Users\ishmyles\Desktop\DatabaseDeployment\DatabaseDeployment\obj\Debug\Model.xml
+C:\Users\ishmyles\Desktop\DatabaseDeployment\DatabaseDeployment\obj\Debug\refactor.xml
+C:\Users\ishmyles\Desktop\DatabaseDeployment\DatabaseDeployment\obj\Debug\postdeploy.sql
+C:\Users\ishmyles\Desktop\DatabaseDeployment\DatabaseDeployment\obj\Debug\predeploy.sql

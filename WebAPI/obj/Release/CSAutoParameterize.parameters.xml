@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DatabaseDeploymentDBEntities-Web.config Connection String" description="DatabaseDeploymentDBEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/Models.DataModel.csdl|res://*/Models.DataModel.ssdl|res://*/Models.DataModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=hadoukendb.database.windows.net;initial catalog=DatabaseDeploymentDB;persist security info=True;user id=ishmyles;password=Hadouken7236;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\ishmyles\\Desktop\\DatabaseDeployment\\WebAPI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DatabaseDeploymentDBEntities']/@connectionString" />
+  </parameter>
+</parameters>
